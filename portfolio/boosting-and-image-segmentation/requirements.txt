@@ -1,0 +1,9 @@
+numpy
+pandas
+matplotlib
+plotly
+scipy
+scikit-learn
+scikit-image
+pillow
+lightgbm

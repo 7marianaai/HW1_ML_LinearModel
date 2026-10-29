@@ -1,0 +1,10 @@
+numpy
+pandas
+matplotlib
+seaborn
+scipy
+scikit-learn
+optuna
+shap
+lime
+psycopg2-binary
