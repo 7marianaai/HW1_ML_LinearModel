@@ -1,7 +1,10 @@
 numpy
 matplotlib
+seaborn
 scikit-learn
 torch
 sentencepiece
 transformers
 tqdm
+ipython
+ipywidgets
